@@ -77,9 +77,14 @@ a:hover {
         padding-top: 18px !important;
     }
 
+    .thisauthor {
+        color: #111;
+        text-decoration: underline;
+  }
+
 }
 
-/* .thisauthor {
+.thisauthor {
           color: #111;
           text-decoration: underline;
-    } */
+    }

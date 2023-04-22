@@ -13,30 +13,30 @@ const highlightcolor = "#111";
 
 // Body properties
 const bodyfontweight = 300;
-const bodyfontsize = "12pt";
+const bodyfontsize = "13pt";
 const backgroundcolor = "#fff";
 
 // Link properties
 const acolor = accentcolor;
 const adecoration = "none";
-// const ahovercolor = accentcolor;
-// const ahoverduration = "0.3s";
+const ahovercolor = accentcolor;
+const ahoverduration = "0.3s";
 // const ahoverdecoration = "none"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
 // Menu properties
 const menucolor = basecolor;
-const menufontsize = "14pt";
+const menufontsize = "18pt";
 const menudecoration = "none";
 // const menuhover = accentcolor;
-// const menuhoverduration = "0.3s";
-// const menuhoverdecoration = "none"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
+// const menuhoverduration = "3s";
+// const menuhoverdecoration = "underline"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
 // Header properties
 const headercolor = accentcolor;
-const headerfontsize = "18pt";
+const headerfontsize = "20pt";
 const headerdecoration = "none";
 const namecolor = highlightcolor;
-const namefontsize = "23pt";
+const namefontsize = "26pt";
 
 
 // Publication properties
