@@ -1,19 +1,19 @@
 .instilogo {
     height: 50px;
-    filter: grayscale(20%);
+    filter: grayscale(0%);
 }
 
 a:hover {
     /* font-weight: 400; */
     text-decoration: none;
-    transition-duration: 0.3s;
+    transition-duration: 1.3s;
     transition-timing-function: linear;
     /* color: #444; */
 }
 
 
 .noter {
-    font-size: 15pt;
+    font-size: 16pt;
 }
 
 .tagsep {
@@ -34,7 +34,7 @@ a:hover {
 }
 
 .paper {
-    border-left: 1px solid #ddd;
+    border-left: 1px solid #000000;
 }
 
 .menulink:hover {
@@ -43,7 +43,7 @@ a:hover {
 
 .profilepic {
     width: 150px;
-    border-radius: 40%;
+    border-radius: 50%;
     /* filter: grayscale(100%); */
 }
 

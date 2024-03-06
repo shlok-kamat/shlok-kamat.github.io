@@ -4,7 +4,7 @@ const fontweights = [300, 400]
 
 // Color properties
 const basecolor = "#888";
-const accentcolor = "#222";
+const accentcolor = "#007";
 const highlightcolor = "#111";
 
 // const basecolor = "#888";
@@ -19,13 +19,13 @@ const backgroundcolor = "#fff";
 // Link properties
 const acolor = accentcolor;
 const adecoration = "none";
-// const ahovercolor = accentcolor;
-// const ahoverduration = "0.3s";
+const ahovercolor = accentcolor;
+const ahoverduration = "1.3s";
 // const ahoverdecoration = "none"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
 // Menu properties
 const menucolor = basecolor;
-const menufontsize = "16pt";
+const menufontsize = "20pt";
 const menudecoration = "none";
 // const menuhover = accentcolor;
 // const menuhoverduration = "0.3s";
@@ -33,7 +33,7 @@ const menudecoration = "none";
 
 // Header properties
 const headercolor = accentcolor;
-const headerfontsize = "18pt";
+const headerfontsize = "22pt";
 const headerdecoration = "none";
 const namecolor = accentcolor;
 const namefontsize = "29pt";
@@ -62,9 +62,9 @@ const tagdecoration = "none";
 const tagstyle = "normal";
 
 const insttitlecolor = highlightcolor;
-const insttitlesize = "12px";
+const insttitlesize = "14px";
 const instyearcolor = accentcolor;
-const instyearsize = "11px";
+const instyearsize = "12px";
 
 //     .institution {
 //             font - size: 12px;
