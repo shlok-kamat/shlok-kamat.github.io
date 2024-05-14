@@ -21,7 +21,7 @@ const acolor = accentcolor;
 const adecoration = "none";
 const ahovercolor = accentcolor;
 const ahoverduration = "0.3s";
-// const ahoverdecoration = "none"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
+// const ahoverdecoration = "overline"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
 // Menu properties
 const menucolor = basecolor;
