@@ -1,11 +1,11 @@
 // Initialize font properties
-const fontname = "Roboto+Mono";
+const fontname = "Verdana";
 const fontweights = [300, 400]
 
 // Color properties
-const basecolor = "#777";
-const accentcolor = "#007";
-const highlightcolor = "#111";
+const basecolor = "#111";
+const accentcolor = "#j35";
+const highlightcolor = "#009";
 
 // const basecolor = "#888";
 // const accentcolor = "#222";
@@ -14,7 +14,7 @@ const highlightcolor = "#111";
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "12pt";
-const backgroundcolor = "#FFFAF0";
+const backgroundcolor = "#f2f2f2";
 
 // Link properties
 const acolor = accentcolor;
