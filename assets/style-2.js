@@ -62,9 +62,9 @@ const tagdecoration = "none";
 const tagstyle = "normal";
 
 const insttitlecolor = highlightcolor;
-const insttitlesize = "12px";
+const insttitlesize = "13px";
 const instyearcolor = accentcolor;
-const instyearsize = "11px";
+const instyearsize = "12px";
 
 //     .institution {
 //             font - size: 12px;

@@ -62,7 +62,7 @@ const tagdecoration = "none";
 const tagstyle = "normal";
 
 const insttitlecolor = highlightcolor;
-const insttitlesize = "12px";
+const insttitlesize = "22px";
 const instyearcolor = accentcolor;
 const instyearsize = "11px";
 
