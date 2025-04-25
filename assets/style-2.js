@@ -3,25 +3,22 @@ const fontname = "Ubuntu";
 const fontweights = [300, 400]
 
 // Color properties
-const basecolor = "#777";
-const accentcolor = "#a00";
-const highlightcolor = "#111";
+const basecolor = "2b2d42"; //#777
+const accentcolor = "#c1121f";
+const highlightcolor = "#111"; //#111
 
-// const basecolor = "#888";
-// const accentcolor = "#222";
-// const highlight = "#111";
 
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "13pt";
-const backgroundcolor = "#fff";
+const backgroundcolor = "#edf2f4";
 
 // Link properties
 const acolor = accentcolor;
 const adecoration = "none";
 const ahovercolor = accentcolor;
-const ahoverduration = "0.3s";
-// const ahoverdecoration = "overline"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
+const ahoverduration = "0.1s";
+// const ahoverdecoration = "dotted"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
 // Menu properties
 const menucolor = basecolor;
