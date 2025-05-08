@@ -3,15 +3,15 @@ const fontname = "Ubuntu";
 const fontweights = [300, 400]
 
 // Color properties
-const basecolor = "2b2d42"; //#777
-const accentcolor = "#c1121f";
+const basecolor = "#00171f"; //#777
+const accentcolor = "#d64045";
 const highlightcolor = "#111"; //#111
 
 
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "13pt";
-const backgroundcolor = "#edf2f4";
+const backgroundcolor = "#ffffff";
 
 // Link properties
 const acolor = accentcolor;
