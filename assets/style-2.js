@@ -10,15 +10,15 @@ const highlightcolor = "#111"; //#111
 
 // Body properties
 const bodyfontweight = 300;
-const bodyfontsize = "13pt";
+const bodyfontsize = "12.5pt";
 const backgroundcolor = "#ffffff";
 
 // Link properties
 const acolor = accentcolor;
 const adecoration = "none";
 const ahovercolor = accentcolor;
-const ahoverduration = "0.1s";
-// const ahoverdecoration = "dotted"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
+const ahoverduration = "3.1s";
+const ahoverdecoration = "dotted"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 
 // Menu properties
 const menucolor = basecolor;
